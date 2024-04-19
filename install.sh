@@ -13,5 +13,4 @@ sudo rm script.js
 sudo wget http://10.0.0.12/web/restos/cockpit/virtualbox/script.js
 sudo rm styles.css
 sudo wget http://10.0.0.12/web/restos/cockpit/virtualbox/styles.css
-sudo wget http://10.0.0.12/web/restos/cockpit/virtualbox/wallet.png
 sudo systemctl restart cockpit
