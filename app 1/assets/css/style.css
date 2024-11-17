@@ -1,0 +1,24 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #f4f4f4;
+  }
+  
+  main {
+    display: flex;
+    height: 100vh;
+  }
+  
+  #vmList {
+    width: 30%;
+    background-color: #f0f0f0;
+    overflow-y: auto;
+  }
+  
+  #vmDetails {
+    width: 70%;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
